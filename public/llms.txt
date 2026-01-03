@@ -1,57 +1,47 @@
-# למידה מותאמת — Generative Engine Optimization Map
-
-> A חינוך דיגיטלי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://-ae6d81a5.zappy5.app
+https://example.com
 הכנה לכיתה א דיגיטלית מותאמת אישית לילדכם. למידה עצמאית באנימציה עם מספרים ואותיות. ילד מוכן = ביטחון עצמי!
 
 ### השירותים שלנו
-https://-ae6d81a5.zappy5.app/services
+https://example.com/services
 גלו את תכניות הכנה לכיתה א דיגיטלית שלנו. למידה מותאמת אישית לילדים עם אנימציות, משחקים ומעקב התקדמות. התחילו היום!
 
 ### אודות
-https://-ae6d81a5.zappy5.app/about
+https://example.com/about
 הכירו את למידה מותאמת - חלוצים בהכנה לכיתה א דיגיטלית. למידה מותאמת אישית לילדים עם אנימציות וטכנולוגיה חינוכית מתקדמת.
 
 ### צור קשר
-https://-ae6d81a5.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם למידה מותאמת והתחילו הכנה לכיתה א דיגיטלית מותאמת אישית לילדכם. נשמח לענות על כל שאלה ולעזור לכם להתחיל!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ae6d81a5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ae6d81a5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ae6d81a5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About למידה מותאמת
-למידה מותאמת is a business in the חינוך דיגיטלי industry.
-
-## Target Audience
-הורים לילדים לפני כיתה א׳
-
-## Industry
-חינוך דיגיטלי
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-ae6d81a5.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-ae6d81a5.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
