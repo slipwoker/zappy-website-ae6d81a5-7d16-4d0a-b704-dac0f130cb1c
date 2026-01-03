@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# למידה מותאמת — Generative Engine Optimization Map
+
+> A חינוך דיגיטלי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://limudah-mutaemet.zappy5.app
 הכנה לכיתה א דיגיטלית מותאמת אישית לילדכם. למידה עצמאית באנימציה עם מספרים ואותיות. ילד מוכן = ביטחון עצמי!
 
 ### השירותים שלנו
-https://example.com/services
+https://limudah-mutaemet.zappy5.app/services
 גלו את תכניות הכנה לכיתה א דיגיטלית שלנו. למידה מותאמת אישית לילדים עם אנימציות, משחקים ומעקב התקדמות. התחילו היום!
 
 ### אודות
-https://example.com/about
+https://limudah-mutaemet.zappy5.app/about
 הכירו את למידה מותאמת - חלוצים בהכנה לכיתה א דיגיטלית. למידה מותאמת אישית לילדים עם אנימציות וטכנולוגיה חינוכית מתקדמת.
 
 ### צור קשר
-https://example.com/contact
+https://limudah-mutaemet.zappy5.app/contact
 צרו קשר עם למידה מותאמת והתחילו הכנה לכיתה א דיגיטלית מותאמת אישית לילדכם. נשמח לענות על כל שאלה ולעזור לכם להתחיל!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://limudah-mutaemet.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://limudah-mutaemet.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://limudah-mutaemet.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About למידה מותאמת
+למידה מותאמת is a business in the חינוך דיגיטלי industry.
+
+## Target Audience
+הורים לילדים לפני כיתה א׳
+
+## Industry
+חינוך דיגיטלי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://limudah-mutaemet.zappy5.app/sitemap.xml
+- **Robots.txt**: https://limudah-mutaemet.zappy5.app/robots.txt
